@@ -1,0 +1,6 @@
+
+.flag {
+  width: 50px; /* Adjust size as needed */
+  height: auto;
+  margin: 5px; /* Add some margin between flags */
+}
